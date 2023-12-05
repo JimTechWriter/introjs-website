@@ -35,3 +35,7 @@ Define the element to scroll to, `element` or `tooltip`. Default is `element` _(
 ### `data-disable-interaction`
 
 To disable interactions with elements inside the highlighted box, `true` or `false` (also `1` or `0`) _(optional)_
+
+### `data-hint`
+
+Define the element to ... ?  And do anymore attributes exist we can use?
